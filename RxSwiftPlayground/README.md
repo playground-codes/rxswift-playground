@@ -1,3 +1,3 @@
 ## RxSwift playground
-A personal place to test [RxSwift](https://github.com/ReactiveX/RxSwift) quickly.
+A personal place to experiment [RxSwift](https://github.com/ReactiveX/RxSwift) quickly.
 
